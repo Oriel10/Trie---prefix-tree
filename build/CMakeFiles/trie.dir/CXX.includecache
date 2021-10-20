@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/git projects/Trie---prefix-tree/Trie.h
+iostream
+-
+vector
+-
+string
+-
+
+C:/Users/user/Desktop/git projects/Trie---prefix-tree/main.cpp
+iostream
+-
+Trie.h
+C:/Users/user/Desktop/git projects/Trie---prefix-tree/Trie.h
+
